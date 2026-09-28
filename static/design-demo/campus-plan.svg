@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 720">
+    <rect width="1120" height="720" fill="#f6faf8"/><path d="M0 0V720 M0 0H1120" stroke="#dce5e2" stroke-width="1" /><path d="M56 0V720 M0 36H1120" stroke="#dce5e2" stroke-width="1" /><path d="M112 0V720 M0 72H1120" stroke="#dce5e2" stroke-width="1" /><path d="M168 0V720 M0 108H1120" stroke="#dce5e2" stroke-width="1" /><path d="M224 0V720 M0 144H1120" stroke="#dce5e2" stroke-width="1" /><path d="M280 0V720 M0 180H1120" stroke="#dce5e2" stroke-width="1" /><path d="M336 0V720 M0 216H1120" stroke="#dce5e2" stroke-width="1" /><path d="M392 0V720 M0 252H1120" stroke="#dce5e2" stroke-width="1" /><path d="M448 0V720 M0 288H1120" stroke="#dce5e2" stroke-width="1" /><path d="M504 0V720 M0 324H1120" stroke="#dce5e2" stroke-width="1" /><path d="M560 0V720 M0 360H1120" stroke="#dce5e2" stroke-width="1" /><path d="M616 0V720 M0 396H1120" stroke="#dce5e2" stroke-width="1" /><path d="M672 0V720 M0 432H1120" stroke="#dce5e2" stroke-width="1" /><path d="M728 0V720 M0 468H1120" stroke="#dce5e2" stroke-width="1" /><path d="M784 0V720 M0 504H1120" stroke="#dce5e2" stroke-width="1" /><path d="M840 0V720 M0 540H1120" stroke="#dce5e2" stroke-width="1" /><path d="M896 0V720 M0 576H1120" stroke="#dce5e2" stroke-width="1" /><path d="M952 0V720 M0 612H1120" stroke="#dce5e2" stroke-width="1" /><path d="M1008 0V720 M0 648H1120" stroke="#dce5e2" stroke-width="1" /><path d="M1064 0V720 M0 684H1120" stroke="#dce5e2" stroke-width="1" /><path d="M1120 0V720 M0 720H1120" stroke="#dce5e2" stroke-width="1" />
+    <text x="56" y="72" font-family="Arial, sans-serif" font-size="20" fill="#718666" font-weight="bold">DESIGN INSTITUTE / PROJECT STUDY</text>
+    <text x="56" y="111" font-family="Arial, sans-serif" font-size="26" fill="#314c49">绿谷科创园区</text>
+    <path d="M56 134H1064" stroke="#b8cec6" stroke-width="2"/>
+        <rect x="130" y="184" width="850" height="410" rx="8" fill="none" stroke="#718666" stroke-width="5"/>
+        <rect x="180" y="230" width="275" height="315" fill="#e5efea" stroke="#718666" stroke-width="4"/>
+        <rect x="505" y="230" width="420" height="120" fill="#dce9e4" stroke="#718666" stroke-width="4"/>
+        <rect x="505" y="405" width="420" height="140" fill="#dce9e4" stroke="#718666" stroke-width="4"/>
+        <rect x="535" y="375" width="360" height="18" rx="9" fill="#c5ddd4"/>
+        <path d="M455 255H505 M455 315H505 M455 375H505 M455 435H505 M455 495H505" stroke="#718666" stroke-width="2"/>
+        <path d="M625 230V350 M745 230V350 M625 405V545 M745 405V545" stroke="#718666" stroke-width="2"/>
+        <circle cx="90" cy="250" r="21" fill="#cadfd2"/><circle cx="90" cy="525" r="21" fill="#cadfd2"/>
+        <circle cx="1020" cy="295" r="21" fill="#cadfd2"/><circle cx="1020" cy="500" r="21" fill="#cadfd2"/>
+        <text x="180" y="637" font-size="18" fill="#809692">CONCEPT FLOOR PLAN / 概念平面示意</text>
+        
+    <text x="1010" y="665" font-family="Arial, sans-serif" font-size="16" fill="#9aaca7" text-anchor="end">ILLUSTRATIVE DRAWING · NOT FOR CONSTRUCTION</text>
+    </svg>

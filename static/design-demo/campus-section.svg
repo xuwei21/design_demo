@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 720">
+    <rect width="1120" height="720" fill="#f6faf8"/><path d="M0 0V720 M0 0H1120" stroke="#dce5e2" stroke-width="1" /><path d="M56 0V720 M0 36H1120" stroke="#dce5e2" stroke-width="1" /><path d="M112 0V720 M0 72H1120" stroke="#dce5e2" stroke-width="1" /><path d="M168 0V720 M0 108H1120" stroke="#dce5e2" stroke-width="1" /><path d="M224 0V720 M0 144H1120" stroke="#dce5e2" stroke-width="1" /><path d="M280 0V720 M0 180H1120" stroke="#dce5e2" stroke-width="1" /><path d="M336 0V720 M0 216H1120" stroke="#dce5e2" stroke-width="1" /><path d="M392 0V720 M0 252H1120" stroke="#dce5e2" stroke-width="1" /><path d="M448 0V720 M0 288H1120" stroke="#dce5e2" stroke-width="1" /><path d="M504 0V720 M0 324H1120" stroke="#dce5e2" stroke-width="1" /><path d="M560 0V720 M0 360H1120" stroke="#dce5e2" stroke-width="1" /><path d="M616 0V720 M0 396H1120" stroke="#dce5e2" stroke-width="1" /><path d="M672 0V720 M0 432H1120" stroke="#dce5e2" stroke-width="1" /><path d="M728 0V720 M0 468H1120" stroke="#dce5e2" stroke-width="1" /><path d="M784 0V720 M0 504H1120" stroke="#dce5e2" stroke-width="1" /><path d="M840 0V720 M0 540H1120" stroke="#dce5e2" stroke-width="1" /><path d="M896 0V720 M0 576H1120" stroke="#dce5e2" stroke-width="1" /><path d="M952 0V720 M0 612H1120" stroke="#dce5e2" stroke-width="1" /><path d="M1008 0V720 M0 648H1120" stroke="#dce5e2" stroke-width="1" /><path d="M1064 0V720 M0 684H1120" stroke="#dce5e2" stroke-width="1" /><path d="M1120 0V720 M0 720H1120" stroke="#dce5e2" stroke-width="1" />
+    <text x="56" y="72" font-family="Arial, sans-serif" font-size="20" fill="#718666" font-weight="bold">DESIGN INSTITUTE / PROJECT STUDY</text>
+    <text x="56" y="111" font-family="Arial, sans-serif" font-size="26" fill="#314c49">绿谷科创园区</text>
+    <path d="M56 134H1064" stroke="#b8cec6" stroke-width="2"/>
+        <path d="M100 580H1010" stroke="#718666" stroke-width="5"/>
+        <path d="M170 580V470H320V394H460V334H690V378H820V460H970V580" fill="none" stroke="#718666" stroke-width="7"/>
+        <path d="M170 470H970 M320 394H820 M460 334H690" fill="none" stroke="#718666" stroke-width="3"/>
+        <path d="M200 505H940 M350 430H785" stroke="#718666" stroke-width="2" stroke-dasharray="9 8"/>
+        <path d="M210 510V580 M300 510V580 M390 510V580 M480 510V580 M570 510V580 M660 510V580 M750 510V580 M840 510V580 M930 510V580" stroke="#718666" stroke-width="2"/>
+        <circle cx="90" cy="514" r="27" fill="#d7e5dc"/><path d="M90 535V580" stroke="#718666" stroke-width="4"/>
+        <circle cx="1025" cy="495" r="36" fill="#d7e5dc"/><path d="M1025 530V580" stroke="#718666" stroke-width="4"/>
+        <text x="190" y="630" font-size="18" fill="#809692">SOUTH ELEVATION / 南立面示意</text>
+        
+    <text x="1010" y="665" font-family="Arial, sans-serif" font-size="16" fill="#9aaca7" text-anchor="end">ILLUSTRATIVE DRAWING · NOT FOR CONSTRUCTION</text>
+    </svg>

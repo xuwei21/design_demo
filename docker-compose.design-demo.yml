@@ -1,0 +1,20 @@
+services:
+  design-demo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        USE_SLIM: "true"
+    image: open-webui-design-demo:local
+    ports:
+      - "127.0.0.1:3000:8080"
+    environment:
+      WEBUI_AUTH: "true"
+      ENABLE_SIGNUP: "true"
+      DATA_DIR: /app/backend/data
+    volumes:
+      - design-demo-data:/app/backend/data
+    restart: unless-stopped
+
+volumes:
+  design-demo-data:
